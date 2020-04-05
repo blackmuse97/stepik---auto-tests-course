@@ -1,2 +1,2 @@
 # stepik---auto-tests-course
-cource homework
+cource homework, first commit
